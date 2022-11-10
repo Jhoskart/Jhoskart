@@ -29,7 +29,7 @@ Inicie mis estudios con la psicologia y pude licenciarme y ahora que me sumergo 
 
 
 - 📫 ¿Cómo contactarme?
-- ✅ Linkedin: [https://www.linkedin.com/in/jhoskartoro-fullstackdeveloper/] 
+- ✅ Linkedin: https://www.linkedin.com/in/jhoskartoro-fullstackdeveloper/
 - ✅ Correo: jhoskartoro@gmail.com
 
 
