@@ -1,11 +1,8 @@
 ### Bienvenido a mi Github👋
 
-Hola, mi nombre es Jhoskar Toro, Full Stack Developer.💻😃
+Hola, mi nombre es Jhoskar Toro, soy desarrollador FullStack, cuento con más de 1 año de experiencia trabajando en el diseño y desarrollo web, me he especializado en proyectos de Ecommerce y Single Page Applications (SPA) en donde he tenido la oportunidad de aplicar diferentes tecnologías a conveniencia tanto para los clientes como para la empresa. 💼
 
-Soy un apasionado por la tecnologia y el mundo IT💻, entusiasta de las diferentes metodologias de aprendizaje aplicables para el crecimiento personal y profesional, y de impulsar el desarrollo de la creatividad como herramienta de trabajo.🤹 
-Me identifico mucho con el frontend, aunque desarrollando mis habilidades en el backend me di cuenta que es un mundo que tambien me apasiona.💻
-
-Inicie mis estudios con la psicologia y pude licenciarme y ahora que me sumergo en el mundo IT las soft skills las enmarco como las habilidades de mayor importancia en cualquier ambito, tanto personal como profesional, y cada dia intento dar mas de mi para desarrollarlas y ser mejor. Soy perfeccionista y proactivo, siempre busco mejorar y dar lo mejor de mi en cada proyecto!🍀
+Siempre estoy abierto a conocimientos nuevos, me la paso aprendiendo tecnologías nuevas y soy fanático de dejar cada proyecto nuevo en mi GitHub. De igual forma puedo desenvolverme cómodamente tanto en Front como en Back🙋
 
 <h3 align="left">Tecnologías preferidas:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
